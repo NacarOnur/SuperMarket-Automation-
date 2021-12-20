@@ -4,10 +4,15 @@
 Group Members:
 
 Onur Nacar 
+
 Çağatay Ayhan
+
 Umut Secenoğlu
+
 Mehmet Emin Durukan
+
 Yusuf Berk Uray
+
 Kemal Yüksel
 
 Our Aim: Make an easy-to-use supermarket automation
